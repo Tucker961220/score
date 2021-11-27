@@ -1,0 +1,71 @@
+.title{
+    font-size: 30px;
+}
+.suject{
+    height: 30px;
+}
+h2{
+    display: inline;
+}
+.Fraction{
+    height: 26px;
+}
+.box {
+    width: 200px;
+    background-color: gray;
+    border: 1px solid black;
+    text-align: center;
+}
+.outbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.btn{
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.b1{
+    position: absolute;
+    left: 0%;
+}
+.b2{
+    position: absolute;
+    left: 10%;
+}
+.b3{
+    position: absolute;
+    left: 20%;
+}
+.b4{
+    position: absolute;
+    left: 30%;
+}
+.b5{
+    position: absolute;
+    left: 40%;
+}
+.indox{
+    background-color: red;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.b{
+    background-color: yellow;
+}
+.qq{
+    font-size: 50px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    display: flex;
+}
+.BOX{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
